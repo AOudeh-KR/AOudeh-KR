@@ -3,11 +3,10 @@
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOUDEH-KR&theme=light&hide_langs_below=1">
--->
 <center>
   <img src="https://github-readme-stats.vercel.app/api?username=AOUDEH-KR&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,contribs">
 </center>
-
+-->
 <br><br><br>
 
 <h2>Experience with:</h2>
